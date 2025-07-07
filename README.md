@@ -40,8 +40,3 @@ This project involves fine-tuning a GPT-2 (124M) language model to function as a
     "output": "The correct spelling is 'Occasion.'"
   }
   
-## Citation
-Based on materials and code from:
-
-Sebastian Raschka, LLMs-from-Scratch
-🔗 https://github.com/rasbt/LLMs-from-scratch
